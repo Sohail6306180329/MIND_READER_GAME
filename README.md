@@ -19,7 +19,7 @@ A fun Python GUI application that pretends to read your mind by asking you to th
  mind.py: Main script containing the full GUI logic
 
 # 💻 Requirements :-
-* Python 3.x
+* Python 3.13.0
 * No external libraries required! Everything is built using Python’s standard library.
 
 # 🛠️ Installation & Usage:-
